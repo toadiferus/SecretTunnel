@@ -1,0 +1,12 @@
+////////////////////////////////////////////////////////////
+
+	By:		Evan and Michael
+
+////////////////////////////////////////////////////////////
+
+Concept:
+
+	- virtualize Magic the Gathering Game
+	- simulate games
+	- AI that can play Magic the Gathering
+	- Statistical analysis of Decks
